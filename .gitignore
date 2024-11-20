@@ -1,0 +1,5 @@
+# 过滤 .next
+/FromReactToNextJS/.next
+
+# 过滤 node_modules
+/FromReactToNextJS/node_modules
